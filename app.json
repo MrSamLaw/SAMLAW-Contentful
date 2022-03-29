@@ -1,11 +1,11 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "SAM LAW - Photographer",
+  "description": "Telling stories & capturing moments",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "photographer",
+    "SNIPED",
+    "Nikon",
+    "D850"
   ],
   "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
   "success_url": "/",
